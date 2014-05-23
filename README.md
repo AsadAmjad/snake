@@ -1,7 +1,4 @@
-A simple clone of the snake game, developed as my first attempt at using `canvas` and Javascript.
+Snake Browser Game
+==================
 
-It was originally intended for the [0hgame jam](http://0hgame.eu), but couldn't make it on time. 
-
-You can try it [live](http://diz.es/snake).
-
-Thankful mention to [Bill Mill's tutorial](http://billmill.org/static/canvastutorial/), my starting point.
+I developed this game for The PGM's Game development Competetion. Inspired by the original snake game on old nokia phones.
