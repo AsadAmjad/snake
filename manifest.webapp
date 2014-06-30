@@ -1,0 +1,17 @@
+{
+	"version": "1.0",
+	"name": "snake",
+	"description": "snake game app for firefox OS. Inspired by the original snake game on old nokia phones.",
+	"launch_path": "/snake/index.html",
+	"icons": {
+		"16": "/snake/img/icons/appicon-16.png",
+		"48": "/snake/img/icons/appicon-48.png",
+		"128": "/snake/img/icons/appicon-128.png"
+	},
+	"developer": {
+		"name": "Asad Amjad",
+		"url": "https://github.com/AsadAmjad"
+	},
+	"installs_allowed_from": ["*"],
+	"default_locale": "en"
+}
